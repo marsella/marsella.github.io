@@ -33,18 +33,22 @@ a:focus {
 	padding:10px 0;
 	position:relative;
 }
+.thin-line{
+    background:#000;
+    padding:3px 0;
+    position:relative;
+}
 .header{
 	float:left;
 	  width: 50%;
 }
 .header h1{
-	 background:#B40404;
+    background:#841434;
 	color:#fff;
 	padding:35px 20px 10px 20px;
-	font-weight:600;
+	font-weight:500;
 	display:inline-block;
 	font-size: 4em;
-	  border-bottom: 9px solid #000;
 }
 .header-right{
 	float:right;
@@ -64,8 +68,8 @@ a:focus {
 }
 .header-right h2{
 	color:#333;
-	font-size:3em;
-	margin-top:50px;
+	font-size:2.5em;
+	margin-top:25px;
 	display: inline-block;
 	text-align:right;
 }
@@ -90,7 +94,7 @@ a:focus {
 	  font-style: italic;
 }
 .work,.education {
-  border-left: 11px solid #B40404;
+  border-left: 11px solid #841434;
 }
 .work {
 	margin-bottom:2.5em;
@@ -102,7 +106,7 @@ a:focus {
 	color: #fff;
   font-size: 1em;
   font-weight: 600;
-  background: #B40404;
+  background: #841434;
   padding: 8px 0px;
   text-align: center;
   border-bottom: 4px solid #000; 
@@ -153,7 +157,7 @@ a:focus {
 	margin-top:2em;
 }
 .lists{
-	border-left: 11px solid #B40404;
+	border-left: 11px solid #841434;
 	padding-left:15px;
 }
 .date {
@@ -207,7 +211,7 @@ a:focus {
   line-height: 1.5em;
   color: #999;
   font-weight: 300;
-  border-left: 11px solid #B40404;
+  border-left: 11px solid #841434;
   padding-left:15px; 
 }
 .left_grid{
@@ -219,7 +223,7 @@ a:focus {
 	width:50%;
 }
 ul.list2{
-	 border-left: 11px solid #B40404;
+	 border-left: 11px solid #841434;
   padding-left:30px;
   margin-top:1.5em;
 }
@@ -258,7 +262,7 @@ ul.media_sec li img{
   color: #999;
 }
 .copywrite p a:hover{
-  color: #B40404;
+  color: #841434;
 }
 /*--responsive--*/
 @media (max-width: 1024px){
@@ -332,7 +336,7 @@ ul.list2 li {
   font-size: 0.8em;
 }
 .lists2 {
-  border-left: 11px solid #B40404;
+  border-left: 11px solid #841434;
   padding-left: 15px;
 }
 .skill-list:nth-child(1){
@@ -412,7 +416,7 @@ ul.list2 li {
   width: 100%;
 }
 ul.media_sec{
-	  border-left: 11px solid #B40404;
+	  border-left: 11px solid #841434;
   padding-left: 15px;
 }
 }
@@ -474,7 +478,7 @@ ul.media_sec{
   font-size:0.9em;
 }
 .work, .education,.info p,.lists,.lists2,ul.list2,ul.media_sec  {
-  border-left: 6px solid #B40404;
+  border-left: 6px solid #841434;
 }
 .progressy1, .progressy2, .progressy3, .progressy4, .progressy6{
   margin: 4px 0 15px 0;
