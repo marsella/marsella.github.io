@@ -1,0 +1,16 @@
+
+.main {
+  margin : 10px auto;
+  width : 80%;
+  border : 2px solid;
+  background-color :  #f2e6d9 ;
+  padding : 10px;
+}
+
+a {
+  color: hotpink;
+}
+
+b {
+  font-weight : 500;
+}
