@@ -5,6 +5,7 @@
   border : 2px solid;
   background-color :  #f2e6d9 ;
   padding : 3%;
+  max-width : 100%;
 }
 
 a {
